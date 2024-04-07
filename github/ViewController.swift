@@ -15,6 +15,18 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        
+        //Ruslan
+        
+        //yjdtjdytjydt
+        
+        // Do aetbvgrebrgnrtegvfsany additional setup after loading the view.
+        
+        // eldar lev
+        
+        
+        
+        
     }
 
 
