@@ -9,20 +9,11 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        
-        //Ruslan
-        
-        
-        
-        // Do aetbvgrebrgnrtegvfsany additional setup after loading the view.
-        
-        // eldar lev
-        
-        
-        
         
     }
 
