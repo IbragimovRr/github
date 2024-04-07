@@ -8,6 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    //Rusik
     //Eldar
     
     override func viewDidLoad() {
